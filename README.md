@@ -1,5 +1,5 @@
 # CandlestickChartPython
-Using Yahoo Finance and IEX Cloud, I created a program which outputs candlestick charts for given tickers. I used the LMT and RXT tickers for this program. 
+Using Yahoo Finance and IEX Cloud, I created a program which outputs candlestick charts for given tickers. I used the LMT and RTX tickers for this program. 
 In the chart, I noted several events that may have influenced bearish or bullish behavior. This project borrows partly from Part Time Larry's Tutorial on 
 Building Candle Stick Charts with Python.
 
