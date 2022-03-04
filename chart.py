@@ -30,7 +30,7 @@ def create_plot(symbol):
     annotations=[
 
         dict(x='2022-02-22', y=0.6, xref='x', yref='paper', showarrow=True, xanchor='right', text='Russia Invades Ukraine', bgcolor='lightgreen'),
-        dict(x='2021-08-30', y=0.2, xref='x', yref='paper', showarrow=True, xanchor='right', text='USA Completes '
+        dict(x='2021-08-30', y=0.8, xref='x', yref='paper', showarrow=True, xanchor='right', text='USA Completes '
                                                                                               'Withdrawal From '
                                                                                               'Afghanistan', bgcolor='crimson'),
         dict(x='2021-05-03', y=0.4, xref='x', yref='paper', showarrow=True, xanchor='right', text='Trump\'s Deadline for Aghanistan Withdrawal', bgcolor='crimson'),
