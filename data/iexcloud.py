@@ -7,7 +7,7 @@ TOKEN = "YOUR IEX CLOUD API CODE"
 SYMBOL = 'RTX'
 
 
-URL = "https://sandbox.iexapis.com/stable/stock/{}/chart/5y?token={}".format(SYMBOL, TOKEN)
+URL = "https://sandbox.iexapis.com/stable/stock/{}/chart/2y?token={}".format(SYMBOL, TOKEN)
 
 r = requests.get(URL)
 
