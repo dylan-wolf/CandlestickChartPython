@@ -41,5 +41,5 @@ def create_plot(symbol):
     figure.update_layout(title="{} Stock 2020 - 2022".format(symbol), annotations=annotations, shapes=shapes)
     figure.write_html(symbol+".html", auto_open=True)
 
-create_plot("RXT")
+create_plot("RTX")
 create_plot("LMT")
