@@ -4,7 +4,7 @@ import requests, json, csv
 
 TOKEN = "YOUR IEX CLOUD API CODE"
 
-SYMBOL = 'RXT'
+SYMBOL = 'RTX'
 
 
 URL = "https://sandbox.iexapis.com/stable/stock/{}/chart/5y?token={}".format(SYMBOL, TOKEN)
